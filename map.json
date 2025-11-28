@@ -1,0 +1,20 @@
+{
+  "start": [0.0, 0.0],
+  "end": [5.0, 2.0],
+  "obstacles": [
+    {
+      "type": "polygon",
+      "points": [
+        [2.0, -0.5],
+        [3.0, -0.5],
+        [3.0, 1.0],
+        [2.0, 1.0]
+      ]
+    }
+  ],
+  "threshold": 0.4,
+  "alpha": 2.0,
+  "max_iter": 100,
+  "max_degree":4,
+  "num_samples": 500
+}
